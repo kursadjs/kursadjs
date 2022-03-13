@@ -1,16 +1,21 @@
-### Hi there 👋
+## Merhaba, Ben Kürşad 👋
 
-<!--
-**kursadjs/kursadjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Freelance UI-UX Tasarımcı ve Frontend Geliştiriciyim.
 
-Here are some ideas to get you started:
+UI - UX Arayüzler ve Frontend Geliştirme konusunda uzmanım. Bunun yanında Endüstri Mühendisiyim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ⚡️ Web Sitem -> [kursadsimsek.com](https://kursadsimsek.com)
+>
+> 📬 İletişime Geç -> [kursadjs@protonmail.com](mailto:kursadjs@protonmail.com)
+
+#### Sosyal Medya
+
+- [Linkedin](https://www.linkedin.com/in/kursadjs/)
+- [Instagram](https://www.instagram.com/kursadjs/)
+- [Twitter](https://twitter.com/kursadjs)
+- [Spotify](https://open.spotify.com/user/7sozqz35fzqvgorowskpix7i4)
+
+<details>
+<summary> Daha Fazla</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=kursadjs&show_icons=true&theme=dark">
+</details>
