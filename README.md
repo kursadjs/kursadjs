@@ -14,8 +14,3 @@ UI - UX Arayüzler ve Frontend Geliştirme konusunda uzmanım. Bunun yanında En
 - [Instagram](https://www.instagram.com/kursadjs/)
 - [Twitter](https://twitter.com/kursadjs)
 - [Spotify](https://open.spotify.com/user/7sozqz35fzqvgorowskpix7i4)
-
-<details>
-<summary> Daha Fazla</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=kursadjs&show_icons=true&theme=dark">
-</details>
